@@ -1,10 +1,7 @@
-<?php
-
-?>
 <!doctype html>
-<html lang="it">
+<html lang="en">
     <head>
-        <title>Title</title>
+        <title>contatti</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -22,8 +19,7 @@
     </head>
 
     <body>
-        <h1>primi passi con laravel</h1>
-        <p>{{$info}}</p>
+        <h1>Contatti</h1>
         <header>
             <nav>
                 <ul>
